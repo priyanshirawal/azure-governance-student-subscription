@@ -100,6 +100,54 @@ Once the labs are in use, this will make sure that resources do not sit and run 
 
 ## Screenshot reference
 
+### Azure Policy Compliance - Governance Baseline.
+
+This folder records the compliance status of the subscription of the Azure Policy when all the governance controls have been assigned successfully.
+
+When these screenshots were captivated, there were no application loads and/or user-created resources deployed. Consequently, the policy compliance dashboard indicates that it is fully complying with the zero resources that are evaluated.
+
+It is a deliberate and notable state.
+
+#### The Reason Resources Are Not Ready Yet.
+
+In this project, the governance was implemented and designed, and workloads were not deployed. This will make sure that all future resources developed as part of the subscription are automatically assessed against predefined policies as they are deployed.
+
+- Instead of writing the subscription code in a retroactive fashion, e.g. fixing misconfigurations, the subscription is created in a controlled state where:
+- There are already cost limits which are applied.  
+- There are limited locations of deployment.  
+- Tagging of resources is compulsory.  
+- Configurations regarding security are monitored.  
+
+This averts such common problems like unforeseen expenses, irregular deployments and uncontrolled resources.
+
+#### The Importance of This Being a Governance Milestone.
+
+A complete adherent environment where resources are not assessed is a clean governance standard. It confirms that:
+
+- There are all the necessary Azure Policies in place.  
+- The subscription is prepared to implement governance automatically.  
+- These controls will be carried down to the future projects without any further configuration.  
+
+After the deployment of workloads, the compliance dashboard will start to evaluate its resources and any non-compliant settings will be surfaced immediately.
+
+#### Long-Term Value
+
+This project will provide assurance by first establishing governance by ensuring that:
+- The deployments in the future are standardized.  
+- Risks of costs and security are minimized at the beginning.  
+- Scaling the environment does not need any rework or policy redesign.  
+
+This methodology is similar to those of the real world cloud best practices, where governance is viewed as a requirement- not a post-hoc.
+
+#### Next Phase
+
+When sample workloads or actual projects are implemented:
+- The results of policy compliance will fill automatically.  
+- Any kind of violation will be obvious.  
+- The remediation actions may be used where required.  
+
+The current policy setup will not have to be changed.
+
 ## Current Status
 
 Governance controls are used at this stage, prior to the application workloads being deployed. Policy compliance and cost management dashboards, are thus yet to show evaluated resources.
