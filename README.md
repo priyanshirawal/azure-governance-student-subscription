@@ -108,7 +108,7 @@ When these screenshots were captivated, there were no application loads and/or u
 
 It is a deliberate and notable state.
 
-#### The Reason Resources Are Not Ready Yet.
+#### - The Reason Resources Are Not Ready Yet.
 
 In this project, the governance was implemented and designed, and workloads were not deployed. This will make sure that all future resources developed as part of the subscription are automatically assessed against predefined policies as they are deployed.
 
@@ -120,7 +120,7 @@ In this project, the governance was implemented and designed, and workloads were
 
 This averts such common problems like unforeseen expenses, irregular deployments and uncontrolled resources.
 
-#### The Importance of This Being a Governance Milestone.
+#### - The Importance of This Being a Governance Milestone.
 
 A complete adherent environment where resources are not assessed is a clean governance standard. It confirms that:
 
@@ -130,7 +130,7 @@ A complete adherent environment where resources are not assessed is a clean gove
 
 After the deployment of workloads, the compliance dashboard will start to evaluate its resources and any non-compliant settings will be surfaced immediately.
 
-#### Long-Term Value
+#### - Long-Term Value
 
 This project will provide assurance by first establishing governance by ensuring that:
 - The deployments in the future are standardized.  
@@ -139,7 +139,7 @@ This project will provide assurance by first establishing governance by ensuring
 
 This methodology is similar to those of the real world cloud best practices, where governance is viewed as a requirement- not a post-hoc.
 
-#### Next Phase
+#### - Next Phase
 
 When sample workloads or actual projects are implemented:
 - The results of policy compliance will fill automatically.  
