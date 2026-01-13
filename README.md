@@ -166,3 +166,18 @@ This is premeditated and expected. The compliance outcomes and cost information 
 ## Key Takeaway
 
 The best thing that I learnt in this project is that it is always better to have a clean environment and set up governance at the initial stage. Creating rules early is a sure way to keep the future projects organized, secure, and low-cost without having to be manually corrected all the time.
+
+## Future Scope
+
+This is a project that sets the governance threshold of an Azure student subscription. Enhancements in the future will be concentrating on how these governance controls will act after the application workloads have been implemented.
+
+#### Improvements that will be planned will include:
+
+- Using sample virtual machines and storage accounts to exhibit real-time policy assessment and compliance reporting.
+- Taking snapshots of policy compliance after creation of resources.
+- Displaying cost management analysis by mandatory resource tags.
+- Combining single policies into a single management effort, an Azure Policy initiative.
+- Application of governance with Infrastructure as Code (ARM, Bicep, or Terraform).
+- And, adding automated remediation where necessary.
+
+These improvements will be based on the current governance base without the need to redesign it and will prove to be long-term worth in the configuration of policies prior to the deployment of resources.
