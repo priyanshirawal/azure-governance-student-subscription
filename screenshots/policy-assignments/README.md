@@ -13,4 +13,5 @@ They both are located in same folder because both are:
     └── 02-allowed-locations.png
   
 Parameters for allowed virtual machiine sizes will be "B-series SKUs".
+
 Parameters for allowed location are "centralindia", "southindia", "eastus", "westeurope". 
