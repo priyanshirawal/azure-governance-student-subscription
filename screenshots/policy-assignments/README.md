@@ -1,5 +1,7 @@
 Screenshots related to Azure Policy assignments.
+
 The azure policy assignment comprises of the most important policies made; allowed virtual machine size SKUs and allowed location.
+
 They both are located in same folder because both are:
 - Subscription-wide governance boundaries
 - Core policy assignments
